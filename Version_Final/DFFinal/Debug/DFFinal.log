@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\guillermo\desktop\dffinal\dffinal\dataframe.h(240): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\guillermo\desktop\dffinal\dffinal\dataframe.h(479): warning C4018: '<': no coinciden signed/unsigned
+c:\users\guillermo\desktop\dffinal\dffinal\source.cpp(22): warning C4101: 'op1': variable local sin referencia
+c:\users\guillermo\desktop\dffinal\dffinal\dataframe.h(114): warning C4715: 'Dataframe::consultar': no todas las rutas de acceso de control devuelven un valor
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  DFFinal.vcxproj -> C:\Users\GUILLERMO\Desktop\DFFinal\Debug\DFFinal.exe
